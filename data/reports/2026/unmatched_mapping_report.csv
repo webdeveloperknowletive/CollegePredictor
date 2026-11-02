@@ -1,0 +1,343 @@
+﻿College Code,College Name,Branch Code,Branch Name,source_file,college_code_exists,branch_code_exists
+1119,ANURADHA COLLEGE OF ENGINEERING & TECHNOLOGY,111999510,Artificial Intelligence and Data Science,CAP1_2026.xlsx,True,False
+1127,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",112791110,Computer Science and Engineering(Artificial Intelligence and Machine Learning),CAP1_2026.xlsx,True,False
+2112,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",211237210,Electronics and Telecommunication Engg,CAP1_2026.xlsx,True,False
+2114,"Deogiri Institute of Engineering and Management Studies, Aurangabad",211426310,Artificial Intelligence (AI) and Data Science,CAP1_2026.xlsx,True,False
+2114,"Deogiri Institute of Engineering and Management Studies, Aurangabad",211429310,Electrical Engineering,CAP1_2026.xlsx,True,False
+2116,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",211626610,Robotics and Artificial Intelligence,CAP1_2026.xlsx,True,False
+2116,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",211661210,Mechanical Engineering,CAP1_2026.xlsx,True,False
+2127,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded.",212799510,Artificial Intelligence and Data Science,CAP1_2026.xlsx,True,False
+2133,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",213337210,Electronics and Telecommunication Engg,CAP1_2026.xlsx,True,False
+2522,"STMEI's Sandipani Technical Campus-Faculty of Engineering, Latur.",252237010,Electronics and Communication Engineering,CAP1_2026.xlsx,True,False
+2522,"STMEI's Sandipani Technical Campus-Faculty of Engineering, Latur.",252291610,Automation and Robotics,CAP1_2026.xlsx,True,False
+2779,NKSPT INSTITUTE OF ENGINEERING AND TECHNOLOGY PATHIKAR CAMPUS,277919110,Civil Engineering,CAP1_2026.xlsx,True,False
+2805,Urvara Pathrikar Engineering College,280524610,Information Technology,CAP1_2026.xlsx,False,False
+2805,Urvara Pathrikar Engineering College,280537210,Electronics and Telecommunication Engg,CAP1_2026.xlsx,False,False
+2805,Urvara Pathrikar Engineering College,280556610,Computer Science,CAP1_2026.xlsx,False,False
+2805,Urvara Pathrikar Engineering College,280599510,Artificial Intelligence and Data Science,CAP1_2026.xlsx,False,False
+3025,Svkm's Shri Bhagubhai Mafatlal Polytechnic & College of Engineering,301461210,Mechanical Engineering,CAP1_2026.xlsx,False,True
+3035,"Usha Mittal Institute of Technology SNDT Women's University, Mumbai",303390510,Computer Science and Engineering,CAP1_2026.xlsx,False,True
+3147,"Saraswati Education Society, Yadavrao Tasgaonkar Institute of Engineering & Technology, Karjat",314721910,Robotics and Automation,CAP1_2026.xlsx,True,False
+3147,"Saraswati Education Society, Yadavrao Tasgaonkar Institute of Engineering & Technology, Karjat",314725310,Internet of Things (IoT),CAP1_2026.xlsx,True,False
+3188,"Vasantdada Patil Pratishthan's College Of Engineering and Visual Arts, Sion, Mumbai",318837210,Electronics and Telecommunication Engg,CAP1_2026.xlsx,True,False
+3210,"Excelsior Education Society's K.C. College of Engineering and Management Studies and Research, Kopri, Thane (E)",320861210,Mechanical Engineering,CAP1_2026.xlsx,True,True
+3216,GHARDA INSTITUTE OF TECHNOLOGY & MANAGEMENT,321626010,Computer Science and Engineering (Cyber Security),CAP1_2026.xlsx,True,False
+3277,Pravin Rohidas Patil College of Engineering & Technology,327792110,Artificial Intelligence and Machine Learning,CAP1_2026.xlsx,True,False
+3277,Pravin Rohidas Patil College of Engineering & Technology,327799510,Artificial Intelligence and Data Science,CAP1_2026.xlsx,True,False
+3423,"Shree L.R. Tiwari College of Engineering, Mira Road, Mumbai",342326010,Computer Science and Engineering (Cyber Security),CAP1_2026.xlsx,True,False
+3423,"Shree L.R. Tiwari College of Engineering, Mira Road, Mumbai",342391210,Computer Science and Engineering(Data Science),CAP1_2026.xlsx,True,False
+3423,"Shree L.R. Tiwari College of Engineering, Mira Road, Mumbai",342392110,Artificial Intelligence and Machine Learning,CAP1_2026.xlsx,True,False
+3423,"Shree L.R. Tiwari College of Engineering, Mira Road, Mumbai",342392510,Computer Science and Engineering (Artificial Intelligence and Data Science),CAP1_2026.xlsx,True,False
+3462,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",346292110,Artificial Intelligence and Machine Learning,CAP1_2026.xlsx,True,False
+3462,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",346299510,Artificial Intelligence and Data Science,CAP1_2026.xlsx,True,False
+3470,YASHWANTRAO BHONSALE INSTITUTE OF TECHNOLOGY,347092110,Artificial Intelligence and Machine Learning,CAP1_2026.xlsx,True,False
+3477,"Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel",347791710,Data Science,CAP1_2026.xlsx,True,False
+3725,"MAEER's Maharashtra Institute of Technology, Thane",372527210,Electronics & Communication Engg (Industry Integrated),CAP1_2026.xlsx,True,False
+3726,IImperial College of Engineering,372629310,Electrical Engineering,CAP1_2026.xlsx,True,False
+3726,IImperial College of Engineering,372661210,Mechanical Engineering,CAP1_2026.xlsx,True,False
+4026,University Institute of Technology,402661710,Manufacturing Technology,CAP1_2026.xlsx,False,False
+4026,University Institute of Technology,402669210,Metallurgical Engineering,CAP1_2026.xlsx,False,False
+4026,University Institute of Technology,402670110,Mining Engineering,CAP1_2026.xlsx,False,False
+4026,University Institute of Technology,402693710,Computer Science and Social Sciences,CAP1_2026.xlsx,False,False
+4133,"Sanmarg Shikshan Sanstha's Smt. Radhikatai Pandav College of Engineering, Nagpur",413399510,Artificial Intelligence and Data Science,CAP1_2026.xlsx,True,False
+4135,"Amar Seva Mandal's Shree Govindrao Vanjari College of Engineering & Technology, Nagpur",413592110,Artificial Intelligence and Machine Learning,CAP1_2026.xlsx,True,False
+4145,"Wainganga College of Engineering and Management, Dongargaon, Nagpur",414591110,Computer Science and Engineering(Artificial Intelligence and Machine Learning),CAP1_2026.xlsx,True,False
+4151,"Tulsiramji Gaikwad Patil College of Engineering & Technology, Nagpur",415190010,Electronics and Computer Science,CAP1_2026.xlsx,True,False
+4151,"Tulsiramji Gaikwad Patil College of Engineering & Technology, Nagpur",415191010,Computer Science and Engineering(Cyber Security),CAP1_2026.xlsx,True,False
+4163,Rajiv Gandhi College of Engineering Research & Technology Chandrapur,416391110,Computer Science and Engineering(Artificial Intelligence and Machine Learning),CAP1_2026.xlsx,True,False
+4190,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Bhadrawati",419070110,Mining Engineering,CAP1_2026.xlsx,True,False
+4304,"Cummins College of Engineering For Women, Sukhali (Gupchup), Tal. Hingna Hingna Nagpur",430261210,Mechanical Engineering,CAP1_2026.xlsx,False,True
+4648,"R.V. Parankar College of Engineering & Technology, Arvi, Dist Wardha",464826310,Artificial Intelligence (AI) and Data Science,CAP1_2026.xlsx,True,False
+4703,"Somayya Institute of Technology, Chandrapur",470300210,Aeronautical Engineering,CAP1_2026.xlsx,True,False
+4762,"Mata Mahakali College of Engineering & Technology, Warora",476224210,Computer Science and Engineering,CAP1_2026.xlsx,False,False
+4762,"Mata Mahakali College of Engineering & Technology, Warora",476229310,Electrical Engineering,CAP1_2026.xlsx,False,False
+4762,"Mata Mahakali College of Engineering & Technology, Warora",476261210,Mechanical Engineering,CAP1_2026.xlsx,False,False
+4762,"Mata Mahakali College of Engineering & Technology, Warora",476299510,Artificial Intelligence and Data Science,CAP1_2026.xlsx,False,False
+5103,"Shri Shivaji Vidya Prasarak Sanstha's Late Bapusaheb Shivaji Rao Deore College of Engineering,Dhule",510399510,Artificial Intelligence and Data Science,CAP1_2026.xlsx,True,False
+5106,"Khandesh College Education Society's College Of Engineering And Management, Jalgaon",510691110,Computer Science and Engineering(Artificial Intelligence and Machine Learning),CAP1_2026.xlsx,True,False
+5124,"Jagadamba Education Soc. Nashik's S.N.D. College of Engineering & Research, Babulgaon",512499510,Artificial Intelligence and Data Science,CAP1_2026.xlsx,True,False
+5169,"Nagaon Education Society's Gangamai College of Engineering, Nagaon, Tal Dist Dhule",516991110,Computer Science and Engineering(Artificial Intelligence and Machine Learning),CAP1_2026.xlsx,True,False
+5170,"Hindi Seva Mandal's Shri Sant Gadgebaba College of Engineering & Technology, Bhusawal",517026310,Artificial Intelligence (AI) and Data Science,CAP1_2026.xlsx,True,False
+5179,"Vishwabharati Academy's College of Engineering, Ahmednagar",517992110,Artificial Intelligence and Machine Learning,CAP1_2026.xlsx,True,False
+5244,"MET's Institute of Technology Polytechnic, Bhujbal Knowledge City, Adgaon Nashik",524424210,Computer Science and Engineering,CAP1_2026.xlsx,True,False
+5244,"MET's Institute of Technology Polytechnic, Bhujbal Knowledge City, Adgaon Nashik",524429710,Electrical and Electronics Engineering,CAP1_2026.xlsx,True,False
+5263,"Matoshri Education Soceity, Matoshri Institute Of Technology, Dhanore, Nashik",526361210,Mechanical Engineering,CAP1_2026.xlsx,True,False
+5303,"Hon. Shri. Babanrao Pachpute Vichardhara Trust, Group of Institutions (Integrated Campus)-Parikrama, Kashti Shrigondha,",530399510,Artificial Intelligence and Data Science,CAP1_2026.xlsx,True,False
+5331,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",533191610,Automation and Robotics,CAP1_2026.xlsx,True,False
+5365,"Vardhaman Education & Welfare Society, Ahinsa Institute of Technology, Post. Dondaicha, Dhule",536584410,Electronics and Computer Engineering,CAP1_2026.xlsx,True,False
+5408,"Vidya Niketan College of Engineering, Bota Sangamner",540884410,Electronics and Computer Engineering,CAP1_2026.xlsx,True,False
+5408,"Vidya Niketan College of Engineering, Bota Sangamner",540899510,Artificial Intelligence and Data Science,CAP1_2026.xlsx,True,False
+5413,"Netaji Subhashchandra Bose Edu Trust,Netaji Polytechnic.,Dhule",541319110,Civil Engineering,CAP1_2026.xlsx,False,False
+5413,"Netaji Subhashchandra Bose Edu Trust,Netaji Polytechnic.,Dhule",541324510,Computer Engineering,CAP1_2026.xlsx,False,False
+5413,"Netaji Subhashchandra Bose Edu Trust,Netaji Polytechnic.,Dhule",541329310,Electrical Engineering,CAP1_2026.xlsx,False,False
+5413,"Netaji Subhashchandra Bose Edu Trust,Netaji Polytechnic.,Dhule",541361210,Mechanical Engineering,CAP1_2026.xlsx,False,False
+5413,"Netaji Subhashchandra Bose Edu Trust,Netaji Polytechnic.,Dhule",541392110,Artificial Intelligence and Machine Learning,CAP1_2026.xlsx,False,False
+5414,"Nikam Institute of Technology And Management Studies ,Dhule",541419110,Civil Engineering,CAP1_2026.xlsx,True,False
+5414,"Nikam Institute of Technology And Management Studies ,Dhule",541437210,Electronics and Telecommunication Engg,CAP1_2026.xlsx,True,False
+5509,"Shri Swami Samarth Institute of Management and Technology, Malwadi-Bota",550929310,Electrical Engineering,CAP1_2026.xlsx,True,False
+5509,"Shri Swami Samarth Institute of Management and Technology, Malwadi-Bota",550961210,Mechanical Engineering,CAP1_2026.xlsx,True,False
+5513,"MKD Institute of Technology, Nadurbar",551329310,Electrical Engineering,CAP1_2026.xlsx,True,False
+5513,"MKD Institute of Technology, Nadurbar",551399510,Artificial Intelligence and Data Science,CAP1_2026.xlsx,True,False
+5597,VAMANRAO ITHAPE COLLEGE OF ENGINEERING AND MANAGEMENT,559729310,Electrical Engineering,CAP1_2026.xlsx,True,False
+5597,VAMANRAO ITHAPE COLLEGE OF ENGINEERING AND MANAGEMENT,559761210,Mechanical Engineering,CAP1_2026.xlsx,True,False
+5682,Sai College of Engineering and Technology,568224210,Computer Science and Engineering,CAP1_2026.xlsx,False,False
+5682,Sai College of Engineering and Technology,568229310,Electrical Engineering,CAP1_2026.xlsx,False,False
+5682,Sai College of Engineering and Technology,568261210,Mechanical Engineering,CAP1_2026.xlsx,False,False
+5682,Sai College of Engineering and Technology,568291110,Computer Science and Engineering(Artificial Intelligence and Machine Learning),CAP1_2026.xlsx,False,False
+5683,Saptashrungi College of Engineering and Polytechnic,568324210,Computer Science and Engineering,CAP1_2026.xlsx,False,False
+5683,Saptashrungi College of Engineering and Polytechnic,568329310,Electrical Engineering,CAP1_2026.xlsx,False,False
+5683,Saptashrungi College of Engineering and Polytechnic,568361210,Mechanical Engineering,CAP1_2026.xlsx,False,False
+5683,Saptashrungi College of Engineering and Polytechnic,568391110,Computer Science and Engineering(Artificial Intelligence and Machine Learning),CAP1_2026.xlsx,False,False
+5686,Loknete Suhas Dwarkanath Kande College of Engineering Management and Research,568619110,Civil Engineering,CAP1_2026.xlsx,False,False
+5686,Loknete Suhas Dwarkanath Kande College of Engineering Management and Research,568624510,Computer Engineering,CAP1_2026.xlsx,False,False
+5686,Loknete Suhas Dwarkanath Kande College of Engineering Management and Research,568629310,Electrical Engineering,CAP1_2026.xlsx,False,False
+5686,Loknete Suhas Dwarkanath Kande College of Engineering Management and Research,568661210,Mechanical Engineering,CAP1_2026.xlsx,False,False
+5686,Loknete Suhas Dwarkanath Kande College of Engineering Management and Research,568692110,Artificial Intelligence and Machine Learning,CAP1_2026.xlsx,False,False
+6041,"Punyashlok Ahilyadevi Holkar Solapur University, Solapur",604108210,Bio Technology,CAP1_2026.xlsx,False,False
+6041,"Punyashlok Ahilyadevi Holkar Solapur University, Solapur",604125210,Cyber Security,CAP1_2026.xlsx,False,False
+6041,"Punyashlok Ahilyadevi Holkar Solapur University, Solapur",604138010,Nano Science and Technology,CAP1_2026.xlsx,False,False
+6041,"Punyashlok Ahilyadevi Holkar Solapur University, Solapur",604150310,Food Technology,CAP1_2026.xlsx,False,False
+6041,"Punyashlok Ahilyadevi Holkar Solapur University, Solapur",604151510,Chemical Technology,CAP1_2026.xlsx,False,False
+6041,"Punyashlok Ahilyadevi Holkar Solapur University, Solapur",604172910,Surface Coating Technology,CAP1_2026.xlsx,False,False
+6041,"Punyashlok Ahilyadevi Holkar Solapur University, Solapur",604191710,Data Science,CAP1_2026.xlsx,False,False
+6041,"Punyashlok Ahilyadevi Holkar Solapur University, Solapur",604192110,Artificial Intelligence and Machine Learning,CAP1_2026.xlsx,False,False
+6139,"Progressive Education Society's Modern College of Engineering, Pune",613924210,Computer Science and Engineering,CAP1_2026.xlsx,True,False
+6139,"Progressive Education Society's Modern College of Engineering, Pune",613992510,Computer Science and Engineering (Artificial Intelligence and Data Science),CAP1_2026.xlsx,True,False
+6175,"Pimpri Chinchwad Education Trust, Pimpri Chinchwad College of Engineering, Pune",617537810,Electronics Engineering ( VLSI Design and Technology),CAP1_2026.xlsx,True,False
+6207,"Dr. D. Y. Patil Unitech Society's Dr. D. Y. Patil Institute of Technology, Pimpri, Pune",620784410,Electronics and Computer Engineering,CAP1_2026.xlsx,True,False
+6276,"MKSSS's Cummins College of Engineering for Women, Karvenagar,Pune",627592110,Artificial Intelligence and Machine Learning,CAP1_2026.xlsx,False,True
+6283,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",628337210,Electronics and Telecommunication Engg,CAP1_2026.xlsx,True,False
+6285,"Bharati Vidyapeeth's College of Engineering for Women, Katraj, Dhankawadi, Pune",628499510,Artificial Intelligence and Data Science,CAP1_2026.xlsx,False,True
+6305,"Late Narayandas Bhawandas Chhabada Institute of Engineering & Technology, Satara",630561210,Mechanical Engineering,CAP1_2026.xlsx,True,False
+6313,"Jaywant College of Engineering & Polytechnic , Kille Macchindragad Tal. Walva District- Sangali",631324210,Computer Science and Engineering,CAP1_2026.xlsx,True,False
+6315,Sanjeevan Group of Institutions,631521910,Robotics and Automation,CAP1_2026.xlsx,True,False
+6402,"NEW INSTITUTE OF TECHNOLOGY,KOLHAPUR",640219110,Civil Engineering,CAP1_2026.xlsx,True,False
+6644,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",664491210,Computer Science and Engineering(Data Science),CAP1_2026.xlsx,True,False
+6725,"New Satara Shikshan Sankul,New Satara College of Engineering & Management, Pandharpur",672519110,Civil Engineering,CAP1_2026.xlsx,False,False
+6725,"New Satara Shikshan Sankul,New Satara College of Engineering & Management, Pandharpur",672524210,Computer Science and Engineering,CAP1_2026.xlsx,False,False
+6725,"New Satara Shikshan Sankul,New Satara College of Engineering & Management, Pandharpur",672537210,Electronics and Telecommunication Engg,CAP1_2026.xlsx,False,False
+6725,"New Satara Shikshan Sankul,New Satara College of Engineering & Management, Pandharpur",672561210,Mechanical Engineering,CAP1_2026.xlsx,False,False
+6725,"New Satara Shikshan Sankul,New Satara College of Engineering & Management, Pandharpur",672599510,Artificial Intelligence and Data Science,CAP1_2026.xlsx,False,False
+6757,"Yashoda Technical Campus, Wadhe, Satara.",675727310,Cloud Computing,CAP1_2026.xlsx,True,False
+6766,Phaltan Education Society's College of Engineering Thakurki Tal- Phaltan Dist-Satara,676692110,Artificial Intelligence and Machine Learning,CAP1_2026.xlsx,True,False
+6767,"Suman Ramesh Tulsiani Technical Campus: Faculty of Engineering, Kamshet,Pune.",676737210,Electronics and Telecommunication Engg,CAP1_2026.xlsx,True,False
+6795,"Shri.Someshwar Shikshan Prasarak Mandal, Sharadchandra Pawar College of Engineering & Technology, Someshwar Nagar",679592110,Artificial Intelligence and Machine Learning,CAP1_2026.xlsx,True,False
+6797,"Dnyanshree Institute Engineering and Technology, Satara",679799510,Artificial Intelligence and Data Science,CAP1_2026.xlsx,True,False
+6799,"Shivganga Charitable Trust, Sangli Vishveshwarya Technical Campus, Faculty of Diploma Engineering, Patgaon, Miraj",679961210,Mechanical Engineering,CAP1_2026.xlsx,True,False
+6799,"Shivganga Charitable Trust, Sangli Vishveshwarya Technical Campus, Faculty of Diploma Engineering, Patgaon, Miraj",679992110,Artificial Intelligence and Machine Learning,CAP1_2026.xlsx,True,False
+6814,"K.P. Patil Institute ( Polytechnic ), Bhudargad, Dist.Kolhapur",681426310,Artificial Intelligence (AI) and Data Science,CAP1_2026.xlsx,False,False
+6814,"K.P. Patil Institute ( Polytechnic ), Bhudargad, Dist.Kolhapur",681438410,"Electrical, Electronics and Power Engineering",CAP1_2026.xlsx,False,False
+6814,"K.P. Patil Institute ( Polytechnic ), Bhudargad, Dist.Kolhapur",681461210,Mechanical Engineering,CAP1_2026.xlsx,False,False
+6901,"MAEER's MIT College of Railway Engineering and Research, Jamgaon, Barshi",690199510,Artificial Intelligence and Data Science,CAP1_2026.xlsx,True,False
+6938,Shree Siddheshwar Women's College Of Engineering Solapur.,690199510,Artificial Intelligence and Data Science,CAP1_2026.xlsx,False,False
+14005,"Laxminarayan Innovation Technological University, Nagpur",1400508310,Biotechnology and Biochemical Engineering,CAP1_2026.xlsx,True,False
+14005,"Laxminarayan Innovation Technological University, Nagpur",1400508410,Pharmaceutical Engineering,CAP1_2026.xlsx,True,False
+16371,Kai. Nirmalatai Pingle Institute of Engineering & Management studies,1637124210,Computer Science and Engineering,CAP1_2026.xlsx,False,False
+16371,Kai. Nirmalatai Pingle Institute of Engineering & Management studies,1637124610,Information Technology,CAP1_2026.xlsx,False,False
+16371,Kai. Nirmalatai Pingle Institute of Engineering & Management studies,1637137210,Electronics and Telecommunication Engg,CAP1_2026.xlsx,False,False
+16371,Kai. Nirmalatai Pingle Institute of Engineering & Management studies,1637184410,Electronics and Computer Engineering,CAP1_2026.xlsx,False,False
+16372,Sawkar Women's Institute of Technology,1637184410,Electronics and Computer Engineering,CAP1_2026.xlsx,False,False
+1119,ANURADHA COLLEGE OF ENGINEERING & TECHNOLOGY,111999510,Artificial Intelligence and Data Science,CAP2_2026.xlsx,True,False
+1127,"Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal",112791110,Computer Science and Engineering(Artificial Intelligence and Machine Learning),CAP2_2026.xlsx,True,False
+2112,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad",211237210,Electronics and Telecommunication Engg,CAP2_2026.xlsx,True,False
+2114,"Deogiri Institute of Engineering and Management Studies, Aurangabad",211426310,Artificial Intelligence (AI) and Data Science,CAP2_2026.xlsx,True,False
+2114,"Deogiri Institute of Engineering and Management Studies, Aurangabad",211429310,Electrical Engineering,CAP2_2026.xlsx,True,False
+2116,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",211626610,Robotics and Artificial Intelligence,CAP2_2026.xlsx,True,False
+2116,"Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded",211661210,Mechanical Engineering,CAP2_2026.xlsx,True,False
+2127,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded.",212799510,Artificial Intelligence and Data Science,CAP2_2026.xlsx,True,False
+2133,"Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai",213337210,Electronics and Telecommunication Engg,CAP2_2026.xlsx,True,False
+2522,"STMEI's Sandipani Technical Campus-Faculty of Engineering, Latur.",252237010,Electronics and Communication Engineering,CAP2_2026.xlsx,True,False
+2522,"STMEI's Sandipani Technical Campus-Faculty of Engineering, Latur.",252291610,Automation and Robotics,CAP2_2026.xlsx,True,False
+2779,NKSPT INSTITUTE OF ENGINEERING AND TECHNOLOGY PATHIKAR CAMPUS,277919110,Civil Engineering,CAP2_2026.xlsx,True,False
+2805,Urvara Pathrikar Engineering College,280524610,Information Technology,CAP2_2026.xlsx,False,False
+2805,Urvara Pathrikar Engineering College,280537210,Electronics and Telecommunication Engg,CAP2_2026.xlsx,False,False
+2805,Urvara Pathrikar Engineering College,280556610,Computer Science,CAP2_2026.xlsx,False,False
+2805,Urvara Pathrikar Engineering College,280599510,Artificial Intelligence and Data Science,CAP2_2026.xlsx,False,False
+3025,Svkm's Shri Bhagubhai Mafatlal Polytechnic & College of Engineering,0302524270U,Computer Science and Engineering,CAP2_2026.xlsx,False,False
+3025,Svkm's Shri Bhagubhai Mafatlal Polytechnic & College of Engineering,0302524570U,Computer Engineering,CAP2_2026.xlsx,False,False
+3025,Svkm's Shri Bhagubhai Mafatlal Polytechnic & College of Engineering,0302524670U,Information Technology,CAP2_2026.xlsx,False,False
+3025,Svkm's Shri Bhagubhai Mafatlal Polytechnic & College of Engineering,0302591170U,Computer Science and Engineering(Artificial Intelligence and Machine Learning),CAP2_2026.xlsx,False,False
+3033,"Dr. Babasaheb Ambedkar Technological University, Lonere",0303319113K,Civil Engineering,CAP2_2026.xlsx,True,False
+3033,"Dr. Babasaheb Ambedkar Technological University, Lonere",0303324513K,Computer Engineering,CAP2_2026.xlsx,True,False
+3033,"Dr. Babasaheb Ambedkar Technological University, Lonere",0303324613K,Information Technology,CAP2_2026.xlsx,True,False
+3033,"Dr. Babasaheb Ambedkar Technological University, Lonere",0303329313K,Electrical Engineering,CAP2_2026.xlsx,True,False
+3033,"Dr. Babasaheb Ambedkar Technological University, Lonere",0303337213K,Electronics and Telecommunication Engg,CAP2_2026.xlsx,True,False
+3033,"Dr. Babasaheb Ambedkar Technological University, Lonere",0303337290L,Electronics and Telecommunication Engg,CAP2_2026.xlsx,True,False
+3033,"Dr. Babasaheb Ambedkar Technological University, Lonere",0303337293LK,Electronics and Telecommunication Engg,CAP2_2026.xlsx,True,False
+3033,"Dr. Babasaheb Ambedkar Technological University, Lonere",0303337813K,Electronics Engineering ( VLSI Design and Technology),CAP2_2026.xlsx,True,False
+3033,"Dr. Babasaheb Ambedkar Technological University, Lonere",0303350713K,Chemical Engineering,CAP2_2026.xlsx,True,False
+3033,"Dr. Babasaheb Ambedkar Technological University, Lonere",0303352713K,Petro Chemical Engineering,CAP2_2026.xlsx,True,False
+3033,"Dr. Babasaheb Ambedkar Technological University, Lonere",0303361213K,Mechanical Engineering,CAP2_2026.xlsx,True,False
+3033,"Dr. Babasaheb Ambedkar Technological University, Lonere",0303390513K,Computer Science and Engineering,CAP2_2026.xlsx,True,False
+3035,"Usha Mittal Institute of Technology SNDT Women's University, Mumbai",0303524550F,Computer Engineering,CAP2_2026.xlsx,False,False
+3035,"Usha Mittal Institute of Technology SNDT Women's University, Mumbai",0303524650F,Information Technology,CAP2_2026.xlsx,False,False
+3035,"Usha Mittal Institute of Technology SNDT Women's University, Mumbai",0303525450F,Computer Science and Technology,CAP2_2026.xlsx,False,False
+3035,"Usha Mittal Institute of Technology SNDT Women's University, Mumbai",0303537050F,Electronics and Communication Engineering,CAP2_2026.xlsx,False,False
+3035,"Usha Mittal Institute of Technology SNDT Women's University, Mumbai",0303591750F,Data Science,CAP2_2026.xlsx,False,False
+3035,"Usha Mittal Institute of Technology SNDT Women's University, Mumbai",0303599750F,Artificial Intelligence,CAP2_2026.xlsx,False,False
+3147,"Saraswati Education Society, Yadavrao Tasgaonkar Institute of Engineering & Technology, Karjat",314721910,Robotics and Automation,CAP2_2026.xlsx,True,False
+3147,"Saraswati Education Society, Yadavrao Tasgaonkar Institute of Engineering & Technology, Karjat",314725310,Internet of Things (IoT),CAP2_2026.xlsx,True,False
+3188,"Vasantdada Patil Pratishthan's College Of Engineering and Visual Arts, Sion, Mumbai",318837210,Electronics and Telecommunication Engg,CAP2_2026.xlsx,True,False
+3210,"Excelsior Education Society's K.C. College of Engineering and Management Studies and Research, Kopri, Thane (E)",0321024230E,Computer Science and Engineering,CAP2_2026.xlsx,True,False
+3210,"Excelsior Education Society's K.C. College of Engineering and Management Studies and Research, Kopri, Thane (E)",0321090030E,Electronics and Computer Science,CAP2_2026.xlsx,True,False
+3210,"Excelsior Education Society's K.C. College of Engineering and Management Studies and Research, Kopri, Thane (E)",0321091630E,Automation and Robotics,CAP2_2026.xlsx,True,False
+3210,"Excelsior Education Society's K.C. College of Engineering and Management Studies and Research, Kopri, Thane (E)",0321092130E,Artificial Intelligence and Machine Learning,CAP2_2026.xlsx,True,False
+3216,GHARDA INSTITUTE OF TECHNOLOGY & MANAGEMENT,321626010,Computer Science and Engineering (Cyber Security),CAP2_2026.xlsx,True,False
+3277,Pravin Rohidas Patil College of Engineering & Technology,327792110,Artificial Intelligence and Machine Learning,CAP2_2026.xlsx,True,False
+3277,Pravin Rohidas Patil College of Engineering & Technology,327799510,Artificial Intelligence and Data Science,CAP2_2026.xlsx,True,False
+3423,"Shree L.R. Tiwari College of Engineering, Mira Road, Mumbai",342326010,Computer Science and Engineering (Cyber Security),CAP2_2026.xlsx,True,False
+3423,"Shree L.R. Tiwari College of Engineering, Mira Road, Mumbai",342391210,Computer Science and Engineering(Data Science),CAP2_2026.xlsx,True,False
+3423,"Shree L.R. Tiwari College of Engineering, Mira Road, Mumbai",342392110,Artificial Intelligence and Machine Learning,CAP2_2026.xlsx,True,False
+3423,"Shree L.R. Tiwari College of Engineering, Mira Road, Mumbai",342392510,Computer Science and Engineering (Artificial Intelligence and Data Science),CAP2_2026.xlsx,True,False
+3462,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",346292110,Artificial Intelligence and Machine Learning,CAP2_2026.xlsx,True,False
+3462,"VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.",346299510,Artificial Intelligence and Data Science,CAP2_2026.xlsx,True,False
+3470,YASHWANTRAO BHONSALE INSTITUTE OF TECHNOLOGY,347092110,Artificial Intelligence and Machine Learning,CAP2_2026.xlsx,True,False
+3477,"Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel",347791710,Data Science,CAP2_2026.xlsx,True,False
+3725,"MAEER's Maharashtra Institute of Technology, Thane",372527210,Electronics & Communication Engg (Industry Integrated),CAP2_2026.xlsx,True,False
+3726,IImperial College of Engineering,372629310,Electrical Engineering,CAP2_2026.xlsx,True,False
+3726,IImperial College of Engineering,372661210,Mechanical Engineering,CAP2_2026.xlsx,True,False
+4026,University Institute of Technology,402661710,Manufacturing Technology,CAP2_2026.xlsx,False,False
+4026,University Institute of Technology,402669210,Metallurgical Engineering,CAP2_2026.xlsx,False,False
+4026,University Institute of Technology,402670110,Mining Engineering,CAP2_2026.xlsx,False,False
+4026,University Institute of Technology,402693710,Computer Science and Social Sciences,CAP2_2026.xlsx,False,False
+4133,"Sanmarg Shikshan Sanstha's Smt. Radhikatai Pandav College of Engineering, Nagpur",413399510,Artificial Intelligence and Data Science,CAP2_2026.xlsx,True,False
+4135,"Amar Seva Mandal's Shree Govindrao Vanjari College of Engineering & Technology, Nagpur",413592110,Artificial Intelligence and Machine Learning,CAP2_2026.xlsx,True,False
+4145,"Wainganga College of Engineering and Management, Dongargaon, Nagpur",414591110,Computer Science and Engineering(Artificial Intelligence and Machine Learning),CAP2_2026.xlsx,True,False
+4151,"Tulsiramji Gaikwad Patil College of Engineering & Technology, Nagpur",415190010,Electronics and Computer Science,CAP2_2026.xlsx,True,False
+4151,"Tulsiramji Gaikwad Patil College of Engineering & Technology, Nagpur",415191010,Computer Science and Engineering(Cyber Security),CAP2_2026.xlsx,True,False
+4163,Rajiv Gandhi College of Engineering Research & Technology Chandrapur,416391110,Computer Science and Engineering(Artificial Intelligence and Machine Learning),CAP2_2026.xlsx,True,False
+4190,"M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Bhadrawati",419070110,Mining Engineering,CAP2_2026.xlsx,True,False
+4304,"Cummins College of Engineering For Women, Sukhali (Gupchup), Tal. Hingna Hingna Nagpur",0430424550F,Computer Engineering,CAP2_2026.xlsx,False,False
+4304,"Cummins College of Engineering For Women, Sukhali (Gupchup), Tal. Hingna Hingna Nagpur",0430437250F,Electronics and Telecommunication Engg,CAP2_2026.xlsx,False,False
+4304,"Cummins College of Engineering For Women, Sukhali (Gupchup), Tal. Hingna Hingna Nagpur",0430461250F,Mechanical Engineering,CAP2_2026.xlsx,False,False
+4304,"Cummins College of Engineering For Women, Sukhali (Gupchup), Tal. Hingna Hingna Nagpur",0430491150F,Computer Science and Engineering(Artificial Intelligence and Machine Learning),CAP2_2026.xlsx,False,False
+4648,"R.V. Parankar College of Engineering & Technology, Arvi, Dist Wardha",464826310,Artificial Intelligence (AI) and Data Science,CAP2_2026.xlsx,True,False
+4703,"Somayya Institute of Technology, Chandrapur",470300210,Aeronautical Engineering,CAP2_2026.xlsx,True,False
+4762,"Mata Mahakali College of Engineering & Technology, Warora",476224210,Computer Science and Engineering,CAP2_2026.xlsx,False,False
+4762,"Mata Mahakali College of Engineering & Technology, Warora",476229310,Electrical Engineering,CAP2_2026.xlsx,False,False
+4766,Dr. Arun Motghare College of Engineering and Technology,476629310,Electrical Engineering,CAP2_2026.xlsx,False,False
+4766,Dr. Arun Motghare College of Engineering and Technology,476661210,Mechanical Engineering,CAP2_2026.xlsx,False,False
+5103,"Shri Shivaji Vidya Prasarak Sanstha's Late Bapusaheb Shivaji Rao Deore College of Engineering,Dhule",510399510,Artificial Intelligence and Data Science,CAP2_2026.xlsx,True,False
+5106,"Khandesh College Education Society's College Of Engineering And Management, Jalgaon",510691110,Computer Science and Engineering(Artificial Intelligence and Machine Learning),CAP2_2026.xlsx,True,False
+5124,"Jagadamba Education Soc. Nashik's S.N.D. College of Engineering & Research, Babulgaon",512499510,Artificial Intelligence and Data Science,CAP2_2026.xlsx,True,False
+5169,"Nagaon Education Society's Gangamai College of Engineering, Nagaon, Tal Dist Dhule",516991110,Computer Science and Engineering(Artificial Intelligence and Machine Learning),CAP2_2026.xlsx,True,False
+5170,"Hindi Seva Mandal's Shri Sant Gadgebaba College of Engineering & Technology, Bhusawal",517026310,Artificial Intelligence (AI) and Data Science,CAP2_2026.xlsx,True,False
+5179,"Vishwabharati Academy's College of Engineering, Ahmednagar",517992110,Artificial Intelligence and Machine Learning,CAP2_2026.xlsx,True,False
+5235,"Late Bhausaheb Hiray Smarnika Samiti Trust Sanchalit Polytechnic, Malegaon, Nashik",523524210,Computer Science and Engineering,CAP2_2026.xlsx,False,False
+5235,"Late Bhausaheb Hiray Smarnika Samiti Trust Sanchalit Polytechnic, Malegaon, Nashik",523591210,Computer Science and Engineering(Data Science),CAP2_2026.xlsx,False,False
+5235,"Late Bhausaheb Hiray Smarnika Samiti Trust Sanchalit Polytechnic, Malegaon, Nashik",523592110,Artificial Intelligence and Machine Learning,CAP2_2026.xlsx,False,False
+5244,"MET's Institute of Technology Polytechnic, Bhujbal Knowledge City, Adgaon Nashik",524424210,Computer Science and Engineering,CAP2_2026.xlsx,True,False
+5244,"MET's Institute of Technology Polytechnic, Bhujbal Knowledge City, Adgaon Nashik",524429710,Electrical and Electronics Engineering,CAP2_2026.xlsx,True,False
+5263,"Matoshri Education Soceity, Matoshri Institute Of Technology, Dhanore, Nashik",526361210,Mechanical Engineering,CAP2_2026.xlsx,True,False
+5303,"Hon. Shri. Babanrao Pachpute Vichardhara Trust, Group of Institutions (Integrated Campus)-Parikrama, Kashti Shrigondha,",0530324530E,Computer Engineering,CAP2_2026.xlsx,True,False
+5303,"Hon. Shri. Babanrao Pachpute Vichardhara Trust, Group of Institutions (Integrated Campus)-Parikrama, Kashti Shrigondha,",0530337230E,Electronics and Telecommunication Engg,CAP2_2026.xlsx,True,False
+5303,"Hon. Shri. Babanrao Pachpute Vichardhara Trust, Group of Institutions (Integrated Campus)-Parikrama, Kashti Shrigondha,",0530361230E,Mechanical Engineering,CAP2_2026.xlsx,True,False
+5303,"Hon. Shri. Babanrao Pachpute Vichardhara Trust, Group of Institutions (Integrated Campus)-Parikrama, Kashti Shrigondha,",530399510,Artificial Intelligence and Data Science,CAP2_2026.xlsx,True,False
+5303,"Hon. Shri. Babanrao Pachpute Vichardhara Trust, Group of Institutions (Integrated Campus)-Parikrama, Kashti Shrigondha,",0530399530E,Artificial Intelligence and Data Science,CAP2_2026.xlsx,True,False
+5331,"Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",533191610,Automation and Robotics,CAP2_2026.xlsx,True,False
+5408,"Vidya Niketan College of Engineering, Bota Sangamner",540884410,Electronics and Computer Engineering,CAP2_2026.xlsx,True,False
+5408,"Vidya Niketan College of Engineering, Bota Sangamner",540899510,Artificial Intelligence and Data Science,CAP2_2026.xlsx,True,False
+5413,"Netaji Subhashchandra Bose Edu Trust,Netaji Polytechnic.,Dhule",541324510,Computer Engineering,CAP2_2026.xlsx,False,False
+5413,"Netaji Subhashchandra Bose Edu Trust,Netaji Polytechnic.,Dhule",541361210,Mechanical Engineering,CAP2_2026.xlsx,False,False
+5414,"Nikam Institute of Technology And Management Studies ,Dhule",541419110,Civil Engineering,CAP2_2026.xlsx,True,False
+5414,"Nikam Institute of Technology And Management Studies ,Dhule",541437210,Electronics and Telecommunication Engg,CAP2_2026.xlsx,True,False
+5509,"Shri Swami Samarth Institute of Management and Technology, Malwadi-Bota",550929310,Electrical Engineering,CAP2_2026.xlsx,True,False
+5509,"Shri Swami Samarth Institute of Management and Technology, Malwadi-Bota",550961210,Mechanical Engineering,CAP2_2026.xlsx,True,False
+5513,"MKD Institute of Technology, Nadurbar",551399510,Artificial Intelligence and Data Science,CAP2_2026.xlsx,True,False
+5597,VAMANRAO ITHAPE COLLEGE OF ENGINEERING AND MANAGEMENT,559729310,Electrical Engineering,CAP2_2026.xlsx,True,False
+5597,VAMANRAO ITHAPE COLLEGE OF ENGINEERING AND MANAGEMENT,559761210,Mechanical Engineering,CAP2_2026.xlsx,True,False
+5682,Sai College of Engineering and Technology,568224210,Computer Science and Engineering,CAP2_2026.xlsx,False,False
+5682,Sai College of Engineering and Technology,568229310,Electrical Engineering,CAP2_2026.xlsx,False,False
+5682,Sai College of Engineering and Technology,568291110,Computer Science and Engineering(Artificial Intelligence and Machine Learning),CAP2_2026.xlsx,False,False
+5683,Saptashrungi College of Engineering and Polytechnic,568324210,Computer Science and Engineering,CAP2_2026.xlsx,False,False
+5683,Saptashrungi College of Engineering and Polytechnic,568329310,Electrical Engineering,CAP2_2026.xlsx,False,False
+5683,Saptashrungi College of Engineering and Polytechnic,568391110,Computer Science and Engineering(Artificial Intelligence and Machine Learning),CAP2_2026.xlsx,False,False
+5686,Loknete Suhas Dwarkanath Kande College of Engineering Management and Research,568619110,Civil Engineering,CAP2_2026.xlsx,False,False
+5686,Loknete Suhas Dwarkanath Kande College of Engineering Management and Research,568624510,Computer Engineering,CAP2_2026.xlsx,False,False
+5686,Loknete Suhas Dwarkanath Kande College of Engineering Management and Research,568629310,Electrical Engineering,CAP2_2026.xlsx,False,False
+5686,Loknete Suhas Dwarkanath Kande College of Engineering Management and Research,568661210,Mechanical Engineering,CAP2_2026.xlsx,False,False
+5686,Loknete Suhas Dwarkanath Kande College of Engineering Management and Research,568692110,Artificial Intelligence and Machine Learning,CAP2_2026.xlsx,False,False
+5688,MES Institute of Engineering and Technology,568824510,Computer Engineering,CAP2_2026.xlsx,False,False
+5688,MES Institute of Engineering and Technology,568837310,Electronics and Telecommunication,CAP2_2026.xlsx,False,False
+5688,MES Institute of Engineering and Technology,568884410,Electronics and Computer Engineering,CAP2_2026.xlsx,False,False
+5688,MES Institute of Engineering and Technology,568899510,Artificial Intelligence and Data Science,CAP2_2026.xlsx,False,False
+6007,"Walchand College of Engineering, Sangli",0600721970U,Robotics and Automation,CAP2_2026.xlsx,True,False
+6007,"Walchand College of Engineering, Sangli",0600724270U,Computer Science and Engineering,CAP2_2026.xlsx,True,False
+6007,"Walchand College of Engineering, Sangli",0600724670U,Information Technology,CAP2_2026.xlsx,True,False
+6007,"Walchand College of Engineering, Sangli",0600738810U,VLSI Design and Embedded Systems,CAP2_2026.xlsx,True,False
+6007,"Walchand College of Engineering, Sangli",0600792170U,Artificial Intelligence and Machine Learning,CAP2_2026.xlsx,True,False
+6041,"Punyashlok Ahilyadevi Holkar Solapur University, Solapur",604108210,Bio Technology,CAP2_2026.xlsx,False,False
+6041,"Punyashlok Ahilyadevi Holkar Solapur University, Solapur",604125210,Cyber Security,CAP2_2026.xlsx,False,False
+6041,"Punyashlok Ahilyadevi Holkar Solapur University, Solapur",604138010,Nano Science and Technology,CAP2_2026.xlsx,False,False
+6041,"Punyashlok Ahilyadevi Holkar Solapur University, Solapur",604150310,Food Technology,CAP2_2026.xlsx,False,False
+6041,"Punyashlok Ahilyadevi Holkar Solapur University, Solapur",604151510,Chemical Technology,CAP2_2026.xlsx,False,False
+6041,"Punyashlok Ahilyadevi Holkar Solapur University, Solapur",604172910,Surface Coating Technology,CAP2_2026.xlsx,False,False
+6041,"Punyashlok Ahilyadevi Holkar Solapur University, Solapur",604191710,Data Science,CAP2_2026.xlsx,False,False
+6041,"Punyashlok Ahilyadevi Holkar Solapur University, Solapur",604192110,Artificial Intelligence and Machine Learning,CAP2_2026.xlsx,False,False
+6139,"Progressive Education Society's Modern College of Engineering, Pune",613924210,Computer Science and Engineering,CAP2_2026.xlsx,True,False
+6139,"Progressive Education Society's Modern College of Engineering, Pune",613992510,Computer Science and Engineering (Artificial Intelligence and Data Science),CAP2_2026.xlsx,True,False
+6146,"MIT Academy of Engineering,Alandi, Pune",0614624530E,Computer Engineering,CAP2_2026.xlsx,True,False
+6146,"MIT Academy of Engineering,Alandi, Pune",0614637230E,Electronics and Telecommunication Engg,CAP2_2026.xlsx,True,False
+6146,"MIT Academy of Engineering,Alandi, Pune",0614684430E,Electronics and Computer Engineering,CAP2_2026.xlsx,True,False
+6146,"MIT Academy of Engineering,Alandi, Pune",0614699730E,Artificial Intelligence,CAP2_2026.xlsx,True,False
+6175,"Pimpri Chinchwad Education Trust, Pimpri Chinchwad College of Engineering, Pune",0617519190L,Civil Engineering,CAP2_2026.xlsx,True,False
+6175,"Pimpri Chinchwad Education Trust, Pimpri Chinchwad College of Engineering, Pune",0617524590L,Computer Engineering,CAP2_2026.xlsx,True,False
+6175,"Pimpri Chinchwad Education Trust, Pimpri Chinchwad College of Engineering, Pune",617537810,Electronics Engineering ( VLSI Design and Technology),CAP2_2026.xlsx,True,False
+6207,"Dr. D. Y. Patil Unitech Society's Dr. D. Y. Patil Institute of Technology, Pimpri, Pune",620784410,Electronics and Computer Engineering,CAP2_2026.xlsx,True,False
+6276,"MKSSS's Cummins College of Engineering for Women, Karvenagar,Pune",0627624550F,Computer Engineering,CAP2_2026.xlsx,False,False
+6276,"MKSSS's Cummins College of Engineering for Women, Karvenagar,Pune",0627624650F,Information Technology,CAP2_2026.xlsx,False,False
+6276,"MKSSS's Cummins College of Engineering for Women, Karvenagar,Pune",0627637250F,Electronics and Telecommunication Engg,CAP2_2026.xlsx,False,False
+6276,"MKSSS's Cummins College of Engineering for Women, Karvenagar,Pune",0627646450F,Instrumentation and Control Engineering,CAP2_2026.xlsx,False,False
+6276,"MKSSS's Cummins College of Engineering for Women, Karvenagar,Pune",0627661250F,Mechanical Engineering,CAP2_2026.xlsx,False,False
+6283,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",628337210,Electronics and Telecommunication Engg,CAP2_2026.xlsx,True,False
+6285,"Bharati Vidyapeeth's College of Engineering for Women, Katraj, Dhankawadi, Pune",0628524550F,Computer Engineering,CAP2_2026.xlsx,False,False
+6285,"Bharati Vidyapeeth's College of Engineering for Women, Katraj, Dhankawadi, Pune",0628524650F,Information Technology,CAP2_2026.xlsx,False,False
+6285,"Bharati Vidyapeeth's College of Engineering for Women, Katraj, Dhankawadi, Pune",0628537250F,Electronics and Telecommunication Engg,CAP2_2026.xlsx,False,False
+6285,"Bharati Vidyapeeth's College of Engineering for Women, Katraj, Dhankawadi, Pune",0628592150F,Artificial Intelligence and Machine Learning,CAP2_2026.xlsx,False,False
+6298,"Zeal Education Society's Zeal College of Engineering & Reserch, Narhe, Pune",0629824530E,Computer Engineering,CAP2_2026.xlsx,True,False
+6298,"Zeal Education Society's Zeal College of Engineering & Reserch, Narhe, Pune",0629837230E,Electronics and Telecommunication Engg,CAP2_2026.xlsx,True,False
+6298,"Zeal Education Society's Zeal College of Engineering & Reserch, Narhe, Pune",0629884430E,Electronics and Computer Engineering,CAP2_2026.xlsx,True,False
+6298,"Zeal Education Society's Zeal College of Engineering & Reserch, Narhe, Pune",0629899530E,Artificial Intelligence and Data Science,CAP2_2026.xlsx,True,False
+6313,"Jaywant College of Engineering & Polytechnic , Kille Macchindragad Tal. Walva District- Sangali",631324210,Computer Science and Engineering,CAP2_2026.xlsx,True,False
+6315,Sanjeevan Group of Institutions,631521910,Robotics and Automation,CAP2_2026.xlsx,True,False
+6402,"NEW INSTITUTE OF TECHNOLOGY,KOLHAPUR",640219110,Civil Engineering,CAP2_2026.xlsx,True,False
+6634,"KJEI's Trinity Academy of Engineering, Yewalewadi, Pune",0663492190L,Artificial Intelligence and Machine Learning,CAP2_2026.xlsx,True,False
+6644,"Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",664491210,Computer Science and Engineering(Data Science),CAP2_2026.xlsx,True,False
+6725,"New Satara Shikshan Sankul,New Satara College of Engineering & Management, Pandharpur",672519110,Civil Engineering,CAP2_2026.xlsx,False,False
+6725,"New Satara Shikshan Sankul,New Satara College of Engineering & Management, Pandharpur",672524210,Computer Science and Engineering,CAP2_2026.xlsx,False,False
+6725,"New Satara Shikshan Sankul,New Satara College of Engineering & Management, Pandharpur",672537210,Electronics and Telecommunication Engg,CAP2_2026.xlsx,False,False
+6725,"New Satara Shikshan Sankul,New Satara College of Engineering & Management, Pandharpur",672561210,Mechanical Engineering,CAP2_2026.xlsx,False,False
+6725,"New Satara Shikshan Sankul,New Satara College of Engineering & Management, Pandharpur",672599510,Artificial Intelligence and Data Science,CAP2_2026.xlsx,False,False
+6757,"Yashoda Technical Campus, Wadhe, Satara.",675727310,Cloud Computing,CAP2_2026.xlsx,True,False
+6757,"Yashoda Technical Campus, Wadhe, Satara.",0675792290L,Civil and Environmental Engineering,CAP2_2026.xlsx,True,False
+6766,Phaltan Education Society's College of Engineering Thakurki Tal- Phaltan Dist-Satara,676692110,Artificial Intelligence and Machine Learning,CAP2_2026.xlsx,True,False
+6767,"Suman Ramesh Tulsiani Technical Campus: Faculty of Engineering, Kamshet,Pune.",676737210,Electronics and Telecommunication Engg,CAP2_2026.xlsx,True,False
+6795,"Shri.Someshwar Shikshan Prasarak Mandal, Sharadchandra Pawar College of Engineering & Technology, Someshwar Nagar",679592110,Artificial Intelligence and Machine Learning,CAP2_2026.xlsx,True,False
+6797,"Dnyanshree Institute Engineering and Technology, Satara",679799510,Artificial Intelligence and Data Science,CAP2_2026.xlsx,True,False
+6799,"Shivganga Charitable Trust, Sangli Vishveshwarya Technical Campus, Faculty of Diploma Engineering, Patgaon, Miraj",679961210,Mechanical Engineering,CAP2_2026.xlsx,True,False
+6799,"Shivganga Charitable Trust, Sangli Vishveshwarya Technical Campus, Faculty of Diploma Engineering, Patgaon, Miraj",679992110,Artificial Intelligence and Machine Learning,CAP2_2026.xlsx,True,False
+6814,"K.P. Patil Institute ( Polytechnic ), Bhudargad, Dist.Kolhapur",681426310,Artificial Intelligence (AI) and Data Science,CAP2_2026.xlsx,False,False
+6814,"K.P. Patil Institute ( Polytechnic ), Bhudargad, Dist.Kolhapur",681438410,"Electrical, Electronics and Power Engineering",CAP2_2026.xlsx,False,False
+6814,"K.P. Patil Institute ( Polytechnic ), Bhudargad, Dist.Kolhapur",681461210,Mechanical Engineering,CAP2_2026.xlsx,False,False
+6901,"MAEER's MIT College of Railway Engineering and Research, Jamgaon, Barshi",690199510,Artificial Intelligence and Data Science,CAP2_2026.xlsx,True,False
+6938,Shree Siddheshwar Women's College Of Engineering Solapur.,0693824250F,Computer Science and Engineering,CAP2_2026.xlsx,False,False
+6938,Shree Siddheshwar Women's College Of Engineering Solapur.,0693829350F,Electrical Engineering,CAP2_2026.xlsx,False,False
+6938,Shree Siddheshwar Women's College Of Engineering Solapur.,0693837250F,Electronics and Telecommunication Engg,CAP2_2026.xlsx,False,False
+6938,Shree Siddheshwar Women's College Of Engineering Solapur.,0693884450F,Electronics and Computer Engineering,CAP2_2026.xlsx,False,False
+6938,Shree Siddheshwar Women's College Of Engineering Solapur.,0693892550F,Computer Science and Engineering (Artificial Intelligence and Data Science),CAP2_2026.xlsx,False,False
+14005,"Laxminarayan Innovation Technological University, Nagpur",1400508310,Biotechnology and Biochemical Engineering,CAP2_2026.xlsx,True,False
+14005,"Laxminarayan Innovation Technological University, Nagpur",1400508410,Pharmaceutical Engineering,CAP2_2026.xlsx,True,False
+16371,Kai. Nirmalatai Pingle Institute of Engineering & Management studies,1637124210,Computer Science and Engineering,CAP2_2026.xlsx,False,False
+16371,Kai. Nirmalatai Pingle Institute of Engineering & Management studies,1637124610,Information Technology,CAP2_2026.xlsx,False,False
+16371,Kai. Nirmalatai Pingle Institute of Engineering & Management studies,1637137210,Electronics and Telecommunication Engg,CAP2_2026.xlsx,False,False
+16371,Kai. Nirmalatai Pingle Institute of Engineering & Management studies,1637184410,Electronics and Computer Engineering,CAP2_2026.xlsx,False,False
+16372,Sawkar Women's Institute of Technology,1637224250F,Computer Science and Engineering,CAP2_2026.xlsx,False,False
+16372,Sawkar Women's Institute of Technology,1637237250F,Electronics and Telecommunication Engg,CAP2_2026.xlsx,False,False
+16372,Sawkar Women's Institute of Technology,1637261250F,Mechanical Engineering,CAP2_2026.xlsx,False,False
+16372,Sawkar Women's Institute of Technology,1637299550F,Artificial Intelligence and Data Science,CAP2_2026.xlsx,False,False
+16373,SJVPM College of Engineering,1637319110,Civil Engineering,CAP2_2026.xlsx,False,False
+16373,SJVPM College of Engineering,1637324210,Computer Science and Engineering,CAP2_2026.xlsx,False,False
+16373,SJVPM College of Engineering,1637329310,Electrical Engineering,CAP2_2026.xlsx,False,False
+16373,SJVPM College of Engineering,1637337210,Electronics and Telecommunication Engg,CAP2_2026.xlsx,False,False
+16373,SJVPM College of Engineering,1637361210,Mechanical Engineering,CAP2_2026.xlsx,False,False
+16373,SJVPM College of Engineering,1637391110,Computer Science and Engineering(Artificial Intelligence and Machine Learning),CAP2_2026.xlsx,False,False

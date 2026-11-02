@@ -1,0 +1,38 @@
+# Environment variables and secrets
+/backend/.env
+/backend/.env.*
+!/backend/.env.example
+/frontend/.env
+/frontend/.env.*
+!/frontend/.env.example
+
+# Python virtual environments
+/backend/venv/
+/venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Next.js and Node.js generated files
+/frontend/node_modules/
+/frontend/.next/
+/frontend/out/
+/frontend/build/
+/frontend/coverage/
+
+# Build and cache files
+*.log
+npm-debug.log*
+.DS_Store
+Thumbs.db
+.pytest_cache/
+.mypy_cache/
+
+# Local database backups and dumps
+*.dump
+*.bak
+*.backup
+
+# Editor and operating-system files
+.vscode/
+.idea/
