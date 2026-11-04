@@ -1,7 +1,12 @@
+CREATE SCHEMA IF NOT EXISTS all_india;
+
 CREATE TABLE IF NOT EXISTS all_india.ai_colleges (
     id BIGSERIAL PRIMARY KEY,
     institute_code VARCHAR(30) UNIQUE NOT NULL,
-    institute_name TEXT NOT NULL
+    institute_name TEXT NOT NULL,
+    city TEXT,
+    district TEXT,
+    region TEXT
 );
 
 CREATE TABLE IF NOT EXISTS all_india.ai_branches (
@@ -48,14 +53,20 @@ CREATE TABLE IF NOT EXISTS all_india.ai_data_quality_issues (
     created_at TIMESTAMPTZ NOT NULL DEFAULT NOW()
 );
 
+CREATE INDEX IF NOT EXISTS idx_ai_colleges_city
+ON all_india.ai_colleges(city);
+
+CREATE INDEX IF NOT EXISTS idx_ai_colleges_district
+ON all_india.ai_colleges(district);
+
 CREATE INDEX IF NOT EXISTS idx_ai_cutoffs_year_round
-ON all_india.ai_cutoffs (academic_year, cap_round);
+ON all_india.ai_cutoffs(academic_year, cap_round);
 
 CREATE INDEX IF NOT EXISTS idx_ai_cutoffs_rank
-ON all_india.ai_cutoffs (all_india_merit_rank);
+ON all_india.ai_cutoffs(all_india_merit_rank);
 
 CREATE INDEX IF NOT EXISTS idx_ai_cutoffs_percentile
-ON all_india.ai_cutoffs (percentile);
+ON all_india.ai_cutoffs(percentile);
 
 CREATE INDEX IF NOT EXISTS idx_ai_cutoffs_college_branch
-ON all_india.ai_cutoffs (college_id, branch_id);
+ON all_india.ai_cutoffs(college_id, branch_id);
